@@ -1,21 +1,3 @@
-- 👋 Hi, I’m @sultanarabi161
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-sultanarabi161/sultanarabi161 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-
-
-
 <h1 align="center">👑 Sultan Arabi 👑</h1>
 
 <div align="center">
@@ -94,6 +76,8 @@ You can click the Preview link to take a look at your changes.
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sultanarabi) 
 
 ---
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=mxonlive&label=Profile%20Views&color=brightgreen&style=for-the-badge)](https://github.com/mxonlive)
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sultanarabi161&style=flat-square&color=blue" alt="Profile views counter"/>
   
