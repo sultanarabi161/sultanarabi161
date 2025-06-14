@@ -1,78 +1,150 @@
-<h1 align="center">👑 Sultan Arabi 👑</h1>
+<h1 align="center">Hey there 👋, I'm Sultan Arabi</h1>
+<p align="center">
+  💻 Full Stack Developer | 🛰 Streaming Engineer | 🔒 API Architect | 🧠 Knowledge Seeker
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FFC300&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Blockchain+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 💫 About Me:
-🔭 I'm currently working on enhancing my web development skills<br>
-🌱 I'm currently learning blockchain technology and smart contracts<br>
-👯 I'm looking to collaborate on open-source projects<br>
-🤔 I'm looking for help with advanced JavaScript concepts<br>
-💬 Ask me about web development and cryptocurrency<br>
-📫 How to reach me: sultanarabi161@gmail.com<br>
-😄 Pronouns: He/Him<br>
-⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sultanarabi161) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sultanarabi161) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sultanarabi161) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sultanarabi161)
-
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sultanarabi161&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sultanarabi161&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sultanarabi161&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🚀 Current Projects
-1. **Decentralized Exchange (DEX)**: Building a blockchain-based exchange platform.
-2. **Personal Portfolio Website**: Crafting an interactive showcase of my work.
-3. **Contribution to Open Source**: Actively contributing to various open-source projects.
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Blockchain Technology: A Beginner's Guide](https://example.com/blog1)
-- [5 Essential JavaScript Concepts Every Developer Should Know](https://example.com/blog2)
-- [How to Build a RESTful API with Node.js and Express](https://example.com/blog3)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎓 Education
-- **B.Sc. in Computer Science** - University of Technology (2019-2023)
-- **Full Stack Web Development Bootcamp** - Tech Academy (2022)
-
-## 🎯 Future Goals
-1. Master advanced blockchain concepts and contribute to DeFi projects.
-2. Develop and launch a successful mobile application.
-3. Speak at international tech conferences.
-
-## 💰 You can support my work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sultanarabi) 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sultanarabi) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sultanarabi161&label=Visitors&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=mxonlive&label=Profile%20Views&color=brightgreen&style=for-the-badge)](https://github.com/mxonlive)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sultanarabi161&style=flat-square&color=blue" alt="Profile views counter"/>
-  
-  [![GitHub followers](https://img.shields.io/github/followers/sultanarabi161.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sultanarabi161?tab=followers)
-</div>
+## 👨‍💻 About Me
 
-<h3 align="center">🌟 Thank you for visiting my profile! 🌟</h3>
+I'm **Sultan Arabi**, a passionate Bangladeshi full-stack developer, streaming system architect, and creator of several public tools, APIs, and secure web solutions.
+
+🧠 I’m obsessed with real-time systems, encrypted video delivery, and efficient public services through automation.
+
+- 🏢 Founder of [Xigo Store](https://xigzo.store) — A growing digital tech initiative
+- 🌐 Developer of [yt-downloader](https://yt-downloader-oriby-production.up.railway.app/) | [Live IPTV system](https://digital.xigzo.store)
+- 🔐 Specialist in HLS/MPEG-DASH, tokenized streaming, GitHub Actions & public JSON APIs
+- 🧰 Self-hosting and security freak – I love smart proxy solutions
+- 🎯 Mission: "Free, smart, encrypted internet tools for all"
+
+---
+
+## 🛠️ Tech Stack
+
+```bash
+💻 Languages     : JavaScript, PHP, Python, Shell, HTML, CSS, Bash
+🛠 Tools         : Node.js, Express.js, GitHub Actions, Git, Clapper, Shaka Player
+📦 Backend       : PHP 8.x, Express.js, MongoDB, MySQL, JSON File Storage
+🛰 Streaming     : HLS (m3u8), MPEG-DASH (mpd), Widevine, EME DRM
+🔐 Security      : Token Expiry, Encrypted Proxy, No-Database APIs
+🖼 UI/UX         : Bootstrap, TailwindCSS, Vanilla JS, Custom Media Controls
+
+
+---
+
+🚧 Real Projects & Contributions
+
+Project Name	Description	Technologies Used	Live Link / Repo
+
+🎥 IPTV Login Panel	Xtream login system to fetch channels, build playlist, view expiry, etc.	PHP, JSON, cURL	View
+📺 Toffee Live Player	Smart HLS player with dynamic token m3u8, error handling & auto retry	HTML, JS, HLS, Clapper	View Demo
+📦 GitHub JSON API	Public API that auto-updates every hour via GitHub Actions with secrets	GitHub Actions, JavaScript, JSON	View
+🔗 Short URL Generator	Custom short link site with redirect tracking and ad integration	PHP, .htaccess, JSON storage	Coming Soon
+📥 YT Downloader	Lightweight YouTube video downloader using Node & Express	Node.js, Express, Railway	View
+📊 Real-time Page View API	JS-based live page view system with UUID endpoint tracking (no database)	Node.js, WebSocket, UUID	Private Project
+🔒 Encrypted Proxy Player	Bypasses geo-restrictions for .m3u8 HLS links securely via proxy	NGINX, Node Proxy, HLS, Shaka	Dev Stage
+
+
+
+---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sultanarabi161&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanarabi161&layout=compact&theme=radical" height="165"/>
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=sultanarabi161&theme=tokyonight" />
+</p>
+---
+
+🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sultanarabi161&theme=gruvbox" />
+</p>
+---
+
+🧭 Timeline
+
+2021: Started working on web tools & automation (PHP + Shell)
+2022: Learned HLS + Secure Streaming systems
+2023: Built JSON APIs, created live IPTV panel, launched multiple tools
+2024: Public release of Toffee Live Player, GitHub JSON API, and YouTube Downloader
+2025: Focusing on Widevine DRM, EME + Custom MPEG-DASH Player
+
+
+---
+
+📈 Contribution Graph
+
+
+
+
+---
+
+🤝 Let's Connect
+
+   
+
+
+---
+
+💬 Quotes I Follow
+
+> "Code is poetry. Automation is power. Simplicity is elegance."
+— Sultan Arabi
+
+
+
+
+---
+
+🎯 2025 Goals
+
+[x] Public JSON API
+
+[x] Secure Streaming Player
+
+[x] YouTube Downloader Live
+
+[ ] DRM Widevine + DASH Player
+
+[ ] Open Bengali Tech Community
+
+[ ] Launch short URL & Proxy API
+
+
+
+---
+
+🧩 Fun Facts
+
+I can build complete APIs without databases
+
+I love writing logic that scales forever
+
+I frequently debug tokenized .m3u8 in 3+ browsers
+
+I build tools first for myself, then make them public
+
+
+
+---
+
+🙌 Support My Work
+
+If you like my work, feel free to give a ⭐ on my repos and follow me here!
+
+
+---
+
+<hr /><p align="center">
+  🔥 Powered with ❤️ by <strong><a href="https://github.com/sultanarabi161">Sultan Arabi</a></strong> | 🇧🇩 Bangladesh
+</p>
+```
+---
