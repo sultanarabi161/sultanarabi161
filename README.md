@@ -40,8 +40,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sultanarabi161&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sultanarabi161&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sultanarabi161&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🚀 Current Projects
 1. **Decentralized Exchange (DEX)**: Building a blockchain-based exchange platform.
@@ -58,13 +56,6 @@
 ## 🎓 Education
 - **B.Sc. in Computer Science** - University of Technology (2019-2023)
 - **Full Stack Web Development Bootcamp** - Tech Academy (2022)
-
-## 🏅 Certifications
-- **Certified Blockchain Developer** - Blockchain Council (2023)
-- **AWS Certified Developer – Associate** - Amazon Web Services (2022)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🎯 Future Goals
 1. Master advanced blockchain concepts and contribute to DeFi projects.
