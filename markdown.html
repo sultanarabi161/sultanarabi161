@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sultan Arabi — Markdown Showcase</title>
+  <style>
+    body {
+      background: #f9f9f9;
+      padding: 2rem;
+      font-family: 'Segoe UI', sans-serif;
+      max-width: 960px;
+      margin: auto;
+      color: #222;
+    }
+    img { max-width: 100%; }
+    pre, code {
+      background: #eee;
+      padding: 0.5rem;
+      border-radius: 4px;
+      overflow-x: auto;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 1rem;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div id="markdown-content"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    marked.setOptions({
+      gfm: true,
+      breaks: true,
+      headerIds: false,
+      mangle: false
+    });
+
+    const markdown = `# 👋 Welcome to My Markdown Page
+
+![Views](https://komarev.com/ghpvc/?username=sultanarabi161&label=Profile+Views&color=blueviolet&style=flat-square)
+![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fclv-live.netlify.app&style=flat-square)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/sultanarabi161/sultanarabi161?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/sultanarabi161/sultanarabi161?style=flat-square)
+
+**Sultan Arabi** — Full Stack Developer | Streaming Engineer | API Architect
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Sultan Arabi**, a passionate Bangladeshi full-stack developer, streaming system architect, and creator of several public tools, APIs, and secure web solutions.
+
+🧠 I'm obsessed with real-time systems, encrypted video delivery, and efficient public services through automation.
+
+- 🏢 Founder of [Xigo Store](https://xigzo.store)
+- 🌐 Developer of [yt-downloader](https://yt-downloader-oriby-production.up.railway.app/) | [Live IPTV system](https://digital.xigzo.store)
+- 🔐 Specialist in HLS/MPEG-DASH, tokenized streaming, GitHub Actions & public JSON APIs
+- 🧰 Self-hosting and security freak – I love smart proxy solutions
+- 🎯 Mission: "Free, smart, encrypted internet tools for all"
+
+---
+
+## 🧠 My Project Vault 📂
+
+> A powerful collection of 45+ tools, websites, APIs, and real-time platforms crafted with passion & precision.
+
+### 🎥 Streaming & Media Projects
+1. 🎬 YouTube Live Channels Restreaming  
+2. 📡 Xtream Server Channels Restreaming  
+3. 🛠 Xtream Server Channels Extractor  
+4. 🍭 Toffee Playlists + Modified Scripts  
+5. 📺 Jagobd Full Playlists  
+6. 🔁 Playlist Parser & Auto-updater  
+7. ⚽ Auto Updated Sports Playlists  
+8. 🎞 M3U Playlist Manager  
+9. 📹 Video Player  
+10. 📻 FM Radio  
+11. 🖥 Live TV Friendly Web  
+12. 🗃 Playlist Collection Hub  
+13. 📺 Reels Tube  
+14. 🎵 Ramadan Special Music Web  
+15. 📽 Simple YouTube Clone  
+16. 🎥 Xtream Movie Restreaming Web  
+17. 🏆 Live Sports Web  
+18. 🌐 Live Streaming Web Platform  
+19. 🎥 Stalker MAC Portal  
+20. ⚽ Funcode Live Sports  
+21. 🔄 Xtream Restream System  
+22. 🖥 MAC Server Restream  
+23. 📡 Multi-Source Restreamer  
+24. 🍿 Movie Portal  
+25. 📻 Radio Aggregator  
+
+### ⚡ Real-Time Applications
+26. 📝 Realtime Text Editor  
+27. 💻 Live Code Editor  
+28. 📤 Realtime File Sharing Web  
+29. 💬 Simple Realtime Chat Room  
+30. 🔐 Realtime Secure Text Share  
+31. 📸 Live Camera Image Share  
+
+### 📡 APIs & Data Tools
+32. 🏏 Crichd Live Script & API  
+33. 📬 Telegram Info API  
+34. 📊 Live Cricket Score Web  
+
+### 🛠️ Developer Utilities
+35. 💣 SMS BOMBER & API  
+36. 🖼 Text to Image Generator  
+37. ⬇️ YouTube Video Downloader  
+38. 💳 BIN Generator Web  
+
+### 🌐 Web Themes & UI Projects
+39. 🌈 50+ Live TV Streaming Themes  
+40. 💼 10+ Portfolio Website Themes  
+41. 🧾 Static Subscription Web Theme  
+42. 📲 Shortcut Social Collection Web  
+43. 🖼 Unlimited Wallpaper Gallery  
+
+### 🧨 Security Research Tools
+> ⚠️ For educational and ethical hacking purposes only.
+
+44. 🕵️‍♂️ Social Engineering Simulation  
+45. 🌪 DDoS Attack Tools  
+46. 🤖 Gemini Jailbreak Prompt Toolkit  
+---
+
+### 🔖 And Many More...
+- 🔧 Countless other small & micro tools built with creativity and experimentation.
+
+---
+
+## 📧 Contact
+- Email: sultanarabi161@gmail.com  
+- GitHub: [sultanarabi161](https://github.com/sultanarabi161)
+
+---
+
+🔥 Powered with ❤️ by Sultan Arabi | 🇧🇩 Bangladesh
+`;
+
+    document.getElementById('markdown-content').innerHTML = marked.parse(markdown);
+  </script>
+</body>
+</html>
